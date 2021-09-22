@@ -1,0 +1,33 @@
+body {
+    background: #E6E6E6;
+}
+
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+#container {
+    border: 0.5px solid rgba(0, 0, 0, 0.3);
+    border-radius: 2px 15px 2px 15px;
+    position: absolute;
+    top: 100px;
+    left: 500px;
+}
+
+.input {
+    width: 300px;
+    margin: 10px;
+    padding: 10px;
+    border: 0.1px solid rgba(0, 0, 0, 0.2);
+    border-radius: 7px;
+}
+
+.buttom {
+    width: 320px;
+    margin: 10px;
+    padding: 10px;
+    border: 0.1px solid rgba(0, 0, 0, 0.2);
+    border-radius: 7px;
+    background: #5882FA;
+}
